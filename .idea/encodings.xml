@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/exception/RRException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/exception/RRExceptionHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/Constant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/PageUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/Query.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/R.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/xss/HTMLFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/xss/SQLFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/xss/XssFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/utils/xss/XssHttpServletRequestWrapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/Constant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/DateUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/GenUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/HTMLFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/MongoScanner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/PageUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/Query.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/R.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/RRException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/RRExceptionHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/SQLFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/XssFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/XssFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/XssHttpServletRequestWrapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bianyuan-common/src/main/java/com/tju/common/xss/XssHttpServletRequestWrapper.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bianyuan-coupon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bianyuan-member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bianyuan-order" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bianyuan-product" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bianyuan-ware" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renren-fast" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renren-generator" charset="UTF-8" />
   </component>
 </project>

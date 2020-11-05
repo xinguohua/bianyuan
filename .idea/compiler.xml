@@ -6,20 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bianyuan-common" />
         <module name="bianyuan-coupon" />
         <module name="bianyuan-member" />
         <module name="bianyuan-order" />
         <module name="bianyuan-product" />
         <module name="bianyuan-ware" />
+        <module name="bianyuancommon" />
+        <module name="renren-fast" />
+        <module name="renren-generator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bianyuan" target="1.8" />
+      <module name="bianyuan-common" target="1.8" />
       <module name="bianyuan-coupon" target="1.8" />
       <module name="bianyuan-member" target="1.8" />
       <module name="bianyuan-order" target="1.8" />
       <module name="bianyuan-product" target="1.8" />
       <module name="bianyuan-ware" target="1.8" />
+      <module name="bianyuancommon" target="1.8" />
+      <module name="renren-fast" target="1.8" />
+      <module name="renren-generator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

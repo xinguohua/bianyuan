@@ -1,4 +1,4 @@
-package com.tju.bianyuan.bianyuanmember;
+package com.tju.bianyuan.member;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

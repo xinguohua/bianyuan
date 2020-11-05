@@ -15,5 +15,9 @@
 		<module>bianyuan-order</module>
 		<module>bianyuan-product</module>
 		<module>bianyuan-ware</module>
+		<!--后台管理系统-->
+		<module>renren-fast</module>
+		<module>renren-generator</module>
+		<module>bianyuan-common</module>
 	</modules>
 </project>

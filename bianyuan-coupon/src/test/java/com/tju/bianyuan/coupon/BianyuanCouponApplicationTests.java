@@ -1,4 +1,4 @@
-package com.tju.bianyuan.bianyuancoupon;
+package com.tju.bianyuan.coupon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

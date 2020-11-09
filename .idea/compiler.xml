@@ -2,12 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bianyuan-common" />
         <module name="bianyuan-coupon" />
+        <module name="bianyuan-gateway" />
         <module name="bianyuan-member" />
         <module name="bianyuan-order" />
         <module name="bianyuan-product" />
@@ -21,6 +23,7 @@
       <module name="bianyuan" target="1.8" />
       <module name="bianyuan-common" target="1.8" />
       <module name="bianyuan-coupon" target="1.8" />
+      <module name="bianyuan-gateway" target="1.8" />
       <module name="bianyuan-member" target="1.8" />
       <module name="bianyuan-order" target="1.8" />
       <module name="bianyuan-product" target="1.8" />

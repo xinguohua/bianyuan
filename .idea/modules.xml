@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/bianyuan.iml" filepath="$PROJECT_DIR$/.idea/bianyuan.iml" />
       <module fileurl="file://$PROJECT_DIR$/bianyuan-common/bianyuan-common.iml" filepath="$PROJECT_DIR$/bianyuan-common/bianyuan-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/bianyuan-coupon/bianyuan-coupon.iml" filepath="$PROJECT_DIR$/bianyuan-coupon/bianyuan-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bianyuan-gateway/bianyuan-gateway.iml" filepath="$PROJECT_DIR$/bianyuan-gateway/bianyuan-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/bianyuan-member/bianyuan-member.iml" filepath="$PROJECT_DIR$/bianyuan-member/bianyuan-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/bianyuan-order/bianyuan-order.iml" filepath="$PROJECT_DIR$/bianyuan-order/bianyuan-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/bianyuan-product/bianyuan-product.iml" filepath="$PROJECT_DIR$/bianyuan-product/bianyuan-product.iml" />

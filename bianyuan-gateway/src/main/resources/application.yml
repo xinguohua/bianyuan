@@ -6,3 +6,13 @@ spring:
           uri: https://www.baidu.com
           predicates:
             - Query=url, baidu
+
+        - id: qq_route
+          uri: lb://renren-fast
+          predicates:
+            - Query=url,qq
+
+        - id: admin_route
+          uri: lb://renren-fast
+          predicates:
+            - Path=/api/**

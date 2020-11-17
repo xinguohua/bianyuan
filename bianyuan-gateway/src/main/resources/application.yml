@@ -8,11 +8,31 @@ spring:
             - Query=url, baidu
 
         - id: qq_route
-          uri: lb://renren-fast
+          uri: https://www.qq.com
           predicates:
             - Query=url,qq
 
+# 优先适配精确地址
+# 请求转发给product微服务
+# 前端发过来的 http://localhost:88/api/product/category/list--删掉api------->后端发过来的 http://localhost:15000(/product/category/list)
+        - id: admin_route
+          uri: lb://bianyuan-product
+          predicates:
+            - Path=/api/product/**
+          filters:
+            - RewritePath=/api/(?<segment>.*),/$\{segment}
+
+
+## 前端项目，发送请求都带上/api,有api前缀的请求默认路由到renren-fast微服务
+## http://localhost:88(/api/captcha.jpg)---->http://renren-fast:8080(/api/captcha.jpg) 不行
+##http://localhost:8080（/renren-fast/captcha.jpg） 要求url 所以引入filters
+# 请求转发给后台
         - id: admin_route
           uri: lb://renren-fast
           predicates:
             - Path=/api/**
+          filters:
+            - RewritePath=/api/(?<segment>.*),/renren-fast/$\{segment}
+
+
+

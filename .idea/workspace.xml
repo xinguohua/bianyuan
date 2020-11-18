@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7178ae78-0989-426b-ad05-992a3887e075" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7178ae78-0989-426b-ad05-992a3887e075" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bianyuan-product/target/" />
     <ignored path="$PROJECT_DIR$/bianyuan-ware/target/" />
     <ignored path="$PROJECT_DIR$/bianyuan-order/target/" />
@@ -839,7 +837,7 @@
       <workItem from="1605597660985" duration="6651000" />
       <workItem from="1605609263761" duration="6877000" />
       <workItem from="1605622006675" duration="12000" />
-      <workItem from="1605701054412" duration="629000" />
+      <workItem from="1605701054412" duration="1224000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始结构创建">
       <created>1604559864709</created>
@@ -904,7 +902,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86924000" />
+    <option name="totallyTimeSpent" value="87519000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

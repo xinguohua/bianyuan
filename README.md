@@ -21,8 +21,9 @@
 ## 2020/11/18
 * 删除效果完成
 至52
+* 研究认证及权限分配在哪里 可以直接做么？
  
-### 46 商品API三级分类 待
+
 
 补充知识点
 * categoryServiceImp中的baseMapper---Mybatis知识Mybatis-plus深入理解
